@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/FM-accordion-card/static/css/main.95ae9bae.chunk.css",
+    "main.js": "/FM-accordion-card/static/js/main.9304dc9e.chunk.js",
+    "main.js.map": "/FM-accordion-card/static/js/main.9304dc9e.chunk.js.map",
+    "runtime-main.js": "/FM-accordion-card/static/js/runtime-main.1d94c36c.js",
+    "runtime-main.js.map": "/FM-accordion-card/static/js/runtime-main.1d94c36c.js.map",
+    "static/js/2.80de9ec2.chunk.js": "/FM-accordion-card/static/js/2.80de9ec2.chunk.js",
+    "static/js/2.80de9ec2.chunk.js.map": "/FM-accordion-card/static/js/2.80de9ec2.chunk.js.map",
+    "static/js/3.e475ab7b.chunk.js": "/FM-accordion-card/static/js/3.e475ab7b.chunk.js",
+    "static/js/3.e475ab7b.chunk.js.map": "/FM-accordion-card/static/js/3.e475ab7b.chunk.js.map",
+    "index.html": "/FM-accordion-card/index.html",
+    "static/css/main.95ae9bae.chunk.css.map": "/FM-accordion-card/static/css/main.95ae9bae.chunk.css.map",
+    "static/js/2.80de9ec2.chunk.js.LICENSE.txt": "/FM-accordion-card/static/js/2.80de9ec2.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/FM-accordion-card/static/media/bg-pattern-mobile.55aee912.svg",
+    "static/media/illustration-box-desktop.ec1ba14b.svg": "/FM-accordion-card/static/media/illustration-box-desktop.ec1ba14b.svg",
+    "static/media/illustration-woman-online-desktop.843eb114.svg": "/FM-accordion-card/static/media/illustration-woman-online-desktop.843eb114.svg",
+    "static/media/illustration-woman-online-mobile.0ec5a893.svg": "/FM-accordion-card/static/media/illustration-woman-online-mobile.0ec5a893.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d94c36c.js",
+    "static/js/2.80de9ec2.chunk.js",
+    "static/css/main.95ae9bae.chunk.css",
+    "static/js/main.9304dc9e.chunk.js"
+  ]
+}
