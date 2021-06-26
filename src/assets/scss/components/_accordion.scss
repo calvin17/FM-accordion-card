@@ -1,7 +1,7 @@
 .continer {
   margin: 0vh auto 10vh auto;
   padding-top: 14rem;
-  max-width: 460px;
+  max-width: 440px;
   position: relative;
 }
 
@@ -19,6 +19,7 @@
   background-color: #fff;
   border-radius: 2rem;
   box-shadow: #26394d 0px 21px 37px -10px;
+  min-height: 58rem;
 }
 
 .card-img-container {
@@ -99,7 +100,7 @@
     display: block;
     position: absolute;
     width: 18rem;
-    top: 35rem;
+    top: 39rem;
     left: -8.7rem;
     z-index: 2;
     transition: left 0.8s;
