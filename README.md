@@ -20,7 +20,7 @@ This is a solution to the [FAQ accordion card on Frontend Mentor](https://www.fr
 
 ## Overview
 
-- [Live Demo](https://calvin17.github.io/FM-huddle-landing-page/)
+- [Live Demo](https://calvin17.github.io/FM-accordion-card/)
 
 ### The challenge
 
@@ -32,13 +32,14 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://calvin17.github.io/FM-huddle-landing-page/)
+- Live Site URL: [Add live site URL here](https://calvin17.github.io/FM-accordion-card/)
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
+- React
 - CSS 3
 - Flexbox & Grid
 - SASS
